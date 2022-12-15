@@ -1,0 +1,29 @@
+
+
+{
+"employees": 
+[
+    {
+        "id": "1",
+        "name": "Eric Kodzi"
+    },
+    {
+       "id": "2",
+       "name": "Belinda Larteh"
+    }
+],
+
+
+
+"visitors":
+ [
+    {
+        "id": "1",
+        "name": "bell kodzi"
+    },
+    {
+        "id": "1304046",
+        "name": "ben doe"
+    }
+]
+}
